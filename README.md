@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Page](https://soonyu97.github.io/Frontend-Mentor-Notificaions-Page)
+- Live Site URL: [GitHub Page](https://soonyu97.github.io/Frontend-Mentor-Notifications-Page)
 
 ## My process
 
