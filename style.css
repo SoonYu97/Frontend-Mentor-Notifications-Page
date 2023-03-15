@@ -41,10 +41,6 @@ a {
 	cursor: pointer;
 }
 
-a:hover {
-	color: var(--Blue);
-}
-
 a.person {
 	font-weight: 800;
 	color: var(--Very-dark-blue);
@@ -54,6 +50,12 @@ a.post,
 .group {
 	font-weight: 800;
 	color: var(--Dark-grayish-blue);
+}
+
+a.person:hover,
+.post:hover,
+.group:hover {
+	color: var(--Blue);
 }
 
 p {
@@ -184,7 +186,7 @@ p {
 	align-items: start;
 }
 
-.content-with-picture > .picture{
+.content-with-picture > .picture {
 	width: 45px;
 	height: 45px;
 }
